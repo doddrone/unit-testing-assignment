@@ -1,7 +1,7 @@
 # Full unit test for my_calculation.py
 
 import unittest
-from code.my_calculations import Calculations
+from my_code.my_calculations import Calculations
 
 class TestCalculations(unittest.TestCase):
 

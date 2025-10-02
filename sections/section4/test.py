@@ -1,7 +1,7 @@
 # Unit test for partial my_calculations.py Section 4
 
 import unittest
-from code.my_calculations import Calculations
+from my_code.my_calculations import Calculations
 
 class TestCalculations(unittest.TestCase):
 
